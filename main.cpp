@@ -3,6 +3,8 @@
 #include <cstdlib>
 #include <ctime>
 //random comment
+// this game was found
+// i really liked it
 
 using namespace std;
 
