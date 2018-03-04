@@ -119,6 +119,7 @@ void printMap(vector<vector<int> > const &map, bool const &show){
           cout<<"- ";
         }
       }
+      //end of code
 
     }
     cout<<endl;
